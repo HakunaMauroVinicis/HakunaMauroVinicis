@@ -2,13 +2,11 @@
 
 <div>
   <a href='https://github.com/HakunaMauroVinicis/'>
-   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=y0k4i-1337&show_icons=true&theme=dracula&locale=en&layout=compact&langs_count=8&hide=jupyter%20notebook,scheme,html,css,rich%20text%20format,vim%20script" alt="HakunaMauroVinicis
+   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HakunaMauroVinicis&show_icons=true&theme=dracula&locale=en&layout=compact&langs_count=8&hide=jupyter%20notebook,scheme,html,css,rich%20text%20format,vim%20script" alt="HakunaMauroVinicis
 " /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=y0k4i-1337&show_icons=true&theme=dracula&locale=en&custom_title=y0k4i-1337%27s%20GitHub%20Stats" alt="HakunaMauroVinicis
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=HakunaMauroVinicis&show_icons=true&theme=dracula&locale=en&custom_title=y0k4i-1337%27s%20GitHub%20Stats" alt="HakunaMauroVinicis
 " /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=y0k4i-1337&theme=dracula" alt="HakunaMauroVinicis
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HakunaMauroVinicis&theme=dracula" alt="HakunaMauroVinicis
 " /></p> 
 </div>
 
