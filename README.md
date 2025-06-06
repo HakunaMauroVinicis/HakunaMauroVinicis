@@ -49,8 +49,8 @@ Sou apaixonado por tecnologia, desenvolvimento web e automação. Atualmente, tr
 
 ## 🌐 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/seu-linkedin)  
-- [E-mail](mailto:seu-email@exemplo.com)
+- [LinkedIn](https://www.linkedin.com/in/mauro-vinicius-cust%C3%B3dio-a7164616a?trk=people-guest_people_search-card)  
+- [E-mail](mauro@thorinminer.com.br)
 
 ---
 
