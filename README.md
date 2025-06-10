@@ -1,20 +1,20 @@
-# 👋 Olá, eu sou o Mauro Vinicius!
+# 👋 Hi, I'm Mauro Vinicius!
 
-Bem-vindo ao meu perfil no GitHub!  
-Sou apaixonado por tecnologia, desenvolvimento web e automação. Atualmente, trabalho na **Tellius Telecom** e estou focado em aprimorar minhas habilidades em **React** e **TypeScript**.
-
----
-
-## 🚀 Sobre mim
-
-- 🔭 **Atualmente trabalhando:** Tellius Telecom  
-- 🌱 **Aprendendo:** React, TypeScript  
-- 🤝 **Interessado em colaborar com:** Projetos web e automação em Python  
-- 💬 **Vamos conversar sobre:** Desenvolvimento web, Python, automação, Linux
+Welcome to my GitHub profile!  
+I'm passionate about technology, web development, and automation. I'm currently working at **Tellius Telecom** and focusing on improving my skills in **React** and **TypeScript**.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🚀 About Me
+
+- 🔭 **Currently working at:** Tellius Telecom  
+- 🌱 **Learning:** React, TypeScript  
+- 🤝 **Open to collaborate on:** Web development and Python automation projects  
+- 💬 **Let's talk about:** Web development, Python, automation, Linux
+
+---
+
+## 🛠️ Technologies & Tools
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" title="Python"/>
@@ -29,7 +29,7 @@ Sou apaixonado por tecnologia, desenvolvimento web e automação. Atualmente, tr
 
 ---
 
-## 📚 Atualmente aprendendo
+## 📚 Currently Learning
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" title="React"/>
@@ -56,10 +56,10 @@ Sou apaixonado por tecnologia, desenvolvimento web e automação. Atualmente, tr
 
 ---
 
-## 🌐 Contato
+## 🌐 Contact Me
 
 - [LinkedIn](https://www.linkedin.com/in/mauro-vinicius-cust%C3%B3dio-a7164616a)  
-- 📧 E-mail: [mauro@thorinminer.com.br](mailto:mauro@thorinminer.com.br)
+- 📧 Email: [mauro@thorinminer.com.br](mailto:mauro@thorinminer.com.br)
 
 ---
 
