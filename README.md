@@ -34,7 +34,6 @@ Sou apaixonado por tecnologia, desenvolvimento web e automação. Atualmente, tr
 <div style="display: flex; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" title="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" title="TypeScript"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HakunaMauroVinicis&theme=dracula" alt="HakunaMauroVinicis" />
 </div>
 
 ---
@@ -44,6 +43,7 @@ Sou apaixonado por tecnologia, desenvolvimento web e automação. Atualmente, tr
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HakunaMauroVinicis&layout=compact&langs_count=7&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HakunaMauroVinicis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HakunaMauroVinicis&theme=dracula" alt="HakunaMauroVinicis" />
 </div>
 
 ---
