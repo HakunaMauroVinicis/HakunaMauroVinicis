@@ -48,6 +48,13 @@ Sou apaixonado por tecnologia, desenvolvimento web e automação. Atualmente, tr
 
 ---
 
+##🏆 GitHub Profile Trophy:
+<div aling="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HakunaMauroVinicis&theme=dracula&column=3&margin-w=20&margin-h=20&no-frame=true" alt="HakunaMauroVinicis" />
+</div>
+
+---
+
 ## 🌐 Contato
 
 - [LinkedIn](https://www.linkedin.com/in/mauro-vinicius-cust%C3%B3dio-a7164616a?trk=people-guest_people_search-card)  
