@@ -9,8 +9,8 @@ Sou apaixonado por tecnologia, desenvolvimento web e automação. Atualmente, tr
 
 - 🔭 **Atualmente trabalhando:** Tellius Telecom  
 - 🌱 **Aprendendo:** React, TypeScript  
-- 🤝 **Buscando colaborar em:** Projetos web e automação em Python  
-- 💬 **Fale comigo sobre:** Desenvolvimento web, Python, automação, Linux
+- 🤝 **Interessado em colaborar com:** Projetos web e automação em Python  
+- 💬 **Vamos conversar sobre:** Desenvolvimento web, Python, automação, Linux
 
 ---
 
@@ -31,7 +31,7 @@ Sou apaixonado por tecnologia, desenvolvimento web e automação. Atualmente, tr
 
 ## 📚 Atualmente aprendendo
 
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" title="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" title="TypeScript"/>
 </div>
@@ -43,22 +43,23 @@ Sou apaixonado por tecnologia, desenvolvimento web e automação. Atualmente, tr
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HakunaMauroVinicis&layout=compact&langs_count=7&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HakunaMauroVinicis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HakunaMauroVinicis&theme=dracula" alt="HakunaMauroVinicis" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HakunaMauroVinicis&theme=dracula" alt="GitHub Streak"/>
 </div>
 
 ---
 
-##🏆 GitHub Profile Trophy:
-<div aling="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HakunaMauroVinicis&theme=dracula&column=3&margin-w=20&margin-h=20&no-frame=true" alt="HakunaMauroVinicis" />
+## 🏆 GitHub Profile Trophy
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HakunaMauroVinicis&theme=dracula&column=3&margin-w=20&margin-h=20&no-frame=true" alt="GitHub Trophies"/>
 </div>
 
 ---
 
 ## 🌐 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/mauro-vinicius-cust%C3%B3dio-a7164616a?trk=people-guest_people_search-card)  
-- [E-mail](mauro@thorinminer.com.br)
+- [LinkedIn](https://www.linkedin.com/in/mauro-vinicius-cust%C3%B3dio-a7164616a)  
+- 📧 E-mail: [mauro@thorinminer.com.br](mailto:mauro@thorinminer.com.br)
 
 ---
 
