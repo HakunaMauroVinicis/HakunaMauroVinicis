@@ -59,7 +59,7 @@ I'm passionate about technology, web development, and automation. I'm currently 
 ## 🌐 Contact Me
 
 - [LinkedIn](https://www.linkedin.com/in/mauro-vinicius-cust%C3%B3dio-a7164616a)  
-- 📧 Email: [mauro@thorinminer.com.br](mailto:mauro@thorinminer.com.br)
+- 📧 Email: [mauro@thorinminer.com.br](mailto:brksmauro@hotmail.com)
 
 ---
 
