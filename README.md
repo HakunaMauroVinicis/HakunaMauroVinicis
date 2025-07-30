@@ -7,7 +7,7 @@ I'm passionate about technology, web development, and automation. I'm currently 
 
 ## 🚀 About Me
 
-- 🔭 **Currently working at:** Tellius Telecom  
+- 🔭 **Currently working at:** NXA Tecnologia  
 - 🌱 **Learning:** React, TypeScript  
 - 🤝 **Open to collaborate on:** Web development and Python automation projects  
 - 💬 **Let's talk about:** Web development, Python, automation, Linux
