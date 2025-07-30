@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mauro Vinicius!
 
 Welcome to my GitHub profile!  
-I'm passionate about technology, web development, and automation. I'm currently working at **Tellius Telecom** and focusing on improving my skills in **React** and **TypeScript**.
+I'm passionate about technology, web development, and automation. I'm currently working at **NXA Tecnologia** and focusing on improving my skills in **React** and **TypeScript**.
 
 ---
 
