@@ -57,12 +57,17 @@ I'm passionate about technology, web development, and automation. I'm currently 
 ---
 
 ## 🌐 Contact Me
-
-- [LinkedIn](https://www.linkedin.com/in/mauro-vinicius-cust%C3%B3dio-a7164616a)  
-- 📧 Email: [mauro@thorinminer.com.br](mailto:brksmauro@hotmail.com)
+<div>
+  <a href="https://www.linkedin.com/in/mauro-vinicius-cust%C3%B3dio-a7164616a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=devbox&logoColor=white" target="_blank"></a>
+  <a href = "mailto:brksmauro@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=HakunaMauroVinicis&color=blue" alt="Profile views"/>
 </div>
+
+---
+
+
