@@ -51,7 +51,7 @@ I'm passionate about technology, web development, and automation. I'm currently 
 ## 🏆 GitHub Profile Trophy
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HakunaMauroVinicius&theme=dracula&column=3&margin-w=20&margin-h=20&no-frame=true" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=HakunaMauroVinicis&theme=dracula&column=3&margin-w=20&margin-h=20&no-frame=true" alt="GitHub Trophies"/>
 </div>
 
 ---
