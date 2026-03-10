@@ -41,6 +41,7 @@ I'm passionate about technology, web development, and automation. I'm currently 
 ## 📊 GitHub Stats
 
 <div align="center">
+   <a href="https://stats.hyo.dev"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=HakunaMauroVinicis" width="600" /></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HakunaMauroVinicis&layout=compact&langs_count=7&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HakunaMauroVinicis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img src="https://streak-stats.demolab.com/?user=HakunaMauroVinicis&theme=dracula" alt="GitHub Streak"/>
@@ -51,7 +52,7 @@ I'm passionate about technology, web development, and automation. I'm currently 
 ## 🏆 GitHub Profile Trophy
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HakunaMauroVinicis&theme=dracula&column=3&margin-w=20&margin-h=20&no-frame=true"/>
+  <a href="https://stats.hyo.dev"><img src="https://stats.hyo.dev/api/github-trophies?login=HakunaMauroVinicis" width="600" /></a>
 </div>
 
 ---
@@ -69,5 +70,3 @@ I'm passionate about technology, web development, and automation. I'm currently 
 </div>
 
 ---
-
-
